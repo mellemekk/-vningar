@@ -1,0 +1,15 @@
+main>p {
+    background-color: blueviolet;
+}
+
+main p{
+    color: aqua;
+}
+
+p+p{
+    font-weight: 700;
+}
+
+html>body>main>h2~p{
+    font-style: italic;
+}
